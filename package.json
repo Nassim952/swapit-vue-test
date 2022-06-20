@@ -18,7 +18,10 @@
     "vue-router": "^3.5.3",
     "vue-spinner": "^1.0.4",
     "vue-spinners": "^1.0.2",
-    "yup": "^0.32.11"
+    "yup": "^0.32.11",
+    "express":"*",
+    "body-parser":"*",
+    "bcrypt": "^0.8.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
