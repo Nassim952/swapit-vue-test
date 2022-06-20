@@ -20,8 +20,7 @@
     "vue-spinners": "^1.0.2",
     "yup": "^0.32.11",
     "express":"*",
-    "body-parser":"*",
-    "bcrypt": "^0.8.5"
+    "body-parser":"*"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
